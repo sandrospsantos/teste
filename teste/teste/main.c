@@ -10,9 +10,20 @@
 
 int main(void)
 {
-    /* Replace with your application code */
+    int i;
+	/* Replace with your application code */
     while (1) 
     {
+		if (1==0)
+		{
+			i = 1;
+		} 
+		else
+		{
+			i = 0;
+		}
+		
+		
     }
 }
 
